@@ -1,0 +1,11 @@
+name: HQPreventCrafting
+main: kr.cosine.preventcrafting.HQPreventCrafting
+version: 1.0.0
+api-version: 1.13
+softdepend:
+  - HQFramework
+  - MS-Core
+
+commands:
+  조합금지관리:
+    permission: op
